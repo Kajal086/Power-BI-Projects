@@ -168,7 +168,7 @@ An advanced end-to-end Power BI project involving university admissions and Supe
 - Data Modeling
 - Data Visualization
 
-## Repository Structure
+  ## Repository Structure
 
 ```text
 Power-BI-Projects/
@@ -185,9 +185,10 @@ Power-BI-Projects/
 ├── 10-Capstone-Project-2/
 │
 └── README.md
-
-
-```text
 ---
 
 **Author:** Kajal Choudhary
+
+
+
+
