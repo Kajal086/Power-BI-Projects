@@ -4,36 +4,53 @@ This project was completed as part of my Power BI certification program.
 
 ## Project Overview
 
-This project focuses on data transformation, data modelling, and advanced Power BI visualisations using university admissions data and Superstore sales data.
+This project demonstrates data transformation, data modelling, and interactive data visualization using Power BI.
+
+### 1. University Admissions Analysis
+
+- Data transformation using Power Query
+- Data merging, appending, splitting, pivoting and unpivoting
+- Data modelling and relationships
+- DAX calculations
+- Analysis of university applications, targets, funds and grants
+- Interactive Power BI dashboards
+
+### 2. Superstore Sales Analysis
+
+- Shipping cost analysis
+- Order priority analysis
+- Shipping mode analysis
+- Customer-level analysis
+- Transactional data analysis
+- Interactive dashboard and treemap visualization
 
 ## Key Skills Demonstrated
 
 - Power BI Desktop
 - Power Query
+- DAX
 - Data Transformation
 - Data Modelling
-- DAX
-- Data Visualisation
+- Data Visualization
 - Dashboard Development
 
-## Project Components
+## Dashboard Preview
 
-### 1. University Admissions Analysis
+### University Admissions Dashboard
 
-Analysis of university applications, targets, universities, funding allocations, and applications by race.
+![University Admissions Dashboard](University_Admissions_Dashboard.png)
 
-### 2. Superstore Sales Analysis
+### Superstore Sales Dashboard
 
-Analysis of shipping costs, order priority, shipping modes, customers, and transactional sales data.
+![Superstore Sales Dashboard](Superstore_Sales_Dashboard.png)
 
-## Tools Used
+## Files Included
 
-- Microsoft Power BI
-- Power Query
-- DAX
-- Microsoft Excel
-- CSV
+- `Capstone_Project_2_University_Admissions.pbix`
+- `Capstone_Project_2_Superstore_Sales.pbix`
+- `University_Admissions_Dashboard.png`
+- `Superstore_Sales_Dashboard.png`
 
 ## Note
 
-This project was completed as part of a Power BI certification course and is included here as part of my data analytics portfolio.
+This project was completed as part of a Power BI certification program and is included in this repository as part of my learning and portfolio work.
