@@ -185,7 +185,7 @@ Power-BI-Projects/
 ├── 10-Capstone-Project-2/
 │
 └── README.md
----
+```
 
 **Author:** Kajal Choudhary
 
