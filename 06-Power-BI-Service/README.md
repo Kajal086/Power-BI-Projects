@@ -1,44 +1,40 @@
-# Power BI Solution and Direct Connectivity
+# Assignment 6 – Power BI Service
 
 ## Overview
 
-This assignment was completed as part of the **Power BI Certification Training** program.
+This assignment focused on using Power BI Service to publish a report and create an interactive Sales Dashboard for business analysis.
 
-The assignment focuses on using **DirectQuery and connectivity solutions in Power BI** with an AdventureWorksLT SQL database, followed by publishing the report to Power BI Service.
+## Key Tasks
 
-## Assignment Tasks
+- Published the Power BI report to Power BI Service.
+- Created a Sales Dashboard in Power BI Service.
+- Added a Target Sales visual for 2020.
+- Added a Top Selling Companies visual.
+- Added Sales by Main Category visualizations.
+- Organized multiple visuals into a single dashboard for easier analysis.
 
-The assignment includes:
+## Dashboard
 
-- Creating a Power BI Desktop report from a blank file
-- Connecting to the **AdventureWorksLT SQL Database** using DirectQuery
-- Loading the `SalesLT.Product` and `SalesLT.SalesOrderDetail` tables
-- Creating a chart based on the required data
-- Adding the `OrderQty` field to the chart
-- Adding a slicer using `SellStartDate`
-- Publishing the report to Power BI Service
-- Creating a card visual using the `LineTotal` field in Power BI Service
-- Using a Data Gateway to view the data in Power BI Service
+The completed dashboard provides an overview of:
+
+- Target Sales
+- Top Selling Companies
+- Sales by Main Category
 
 ## Tools & Technologies
 
 - Power BI Desktop
 - Power BI Service
-- DirectQuery
-- SQL Database
-- Data Gateway
+- Power BI Q&A
 
 ## Files
 
-- `Power_BI_Solution_and_Direct_Connectivity.pbix` – Power BI Desktop report
-- `PowerBI_Desktop_Report.png` – Screenshot of the Power BI Desktop report
-- `PowerBI_Service.png` – Screenshot of the Power BI Service
-- `Data_Gateway.png` – Screenshot showing the Data Gateway configuration
+- `Sales_Dashboard.png` – Screenshot of the completed Sales Dashboard.
 
 ## Learning Outcome
 
-This assignment provided practical experience with DirectQuery, SQL database connectivity, Power BI Service publishing, Data Gateway configuration, and working with reports across Power BI Desktop and Power BI Service.
+This assignment provided practical experience in publishing Power BI reports to Power BI Service and creating an interactive dashboard using multiple business intelligence visualizations.
 
 ## Note
 
-This project was completed as part of my **Power BI Certification Training**.
+This project was completed as part of my Power BI Certification Training.
